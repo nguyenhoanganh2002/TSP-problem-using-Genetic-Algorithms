@@ -73,6 +73,9 @@
 
 ![image](https://user-images.githubusercontent.com/79850337/230364447-47b764a3-f586-4795-a775-8d5e56613a9b.png)
 ## So sánh tổng thể
+`Average Fitness`
+![image](https://user-images.githubusercontent.com/79850337/234889773-7ca84893-74ac-4c1c-8668-3a4ba9710761.png)
+
 `500 generations`
 
 |  | Single-point crossover | Multi-point crossover |
@@ -86,6 +89,7 @@
 | ------------- | ------------- | ------------- |
 | Best fitness  | 594.28 | 458.08 |
 | Time taken(s)  | 6.33 | 7.28 |
+
 
 
 
